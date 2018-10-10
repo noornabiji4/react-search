@@ -1,7 +1,7 @@
 
 
 .navelement {
-  animation: App-logo-spin infinite 5s linear;
+  animation: App-logo-spin infinite 1s linear;
   height: 10vmin;
   width: 10vmin;
 }
@@ -13,9 +13,9 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(50deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(180deg);
   }
 }

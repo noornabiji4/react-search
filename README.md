@@ -1,4 +1,6 @@
-#This is my first react App
+# This is my first react App
+Search b ar in array 
+onClick on nav elements 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

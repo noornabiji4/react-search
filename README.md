@@ -1,5 +1,5 @@
 # This is my first react App
-Search b ar in array 
+Search bar in array 
 onClick on nav elements 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
